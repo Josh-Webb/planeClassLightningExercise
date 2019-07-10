@@ -1,0 +1,11 @@
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\bin\Debug\netcoreapp2.2\airplaneClass.deps.json
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\bin\Debug\netcoreapp2.2\airplaneClass.runtimeconfig.json
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\bin\Debug\netcoreapp2.2\airplaneClass.runtimeconfig.dev.json
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\bin\Debug\netcoreapp2.2\airplaneClass.dll
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\bin\Debug\netcoreapp2.2\airplaneClass.pdb
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\obj\Debug\netcoreapp2.2\airplaneClass.csprojAssemblyReference.cache
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\obj\Debug\netcoreapp2.2\airplaneClass.csproj.CoreCompileInputs.cache
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\obj\Debug\netcoreapp2.2\airplaneClass.AssemblyInfoInputs.cache
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\obj\Debug\netcoreapp2.2\airplaneClass.AssemblyInfo.cs
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\obj\Debug\netcoreapp2.2\airplaneClass.dll
+C:\Users\joshw\workspace\csharp\exercises\airplaneClass\obj\Debug\netcoreapp2.2\airplaneClass.pdb
